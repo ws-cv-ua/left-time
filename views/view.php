@@ -14,7 +14,7 @@ $js = <<<JS
 
     'use strict';        
         
-    $('$selectorClass').leftTime();
+    $('.$selectorClass').leftTime();
      
 })($);
 JS;
@@ -26,4 +26,3 @@ $this->registerJs($js);
     'data-seconds' => $seconds,
     'class' => $selectorClass
 ]); ?>
-<div id="left-time" data-seconds="<?= $leftTime; ?>"></div>

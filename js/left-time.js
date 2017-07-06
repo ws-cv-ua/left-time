@@ -22,7 +22,8 @@
             e[index].elem.html(t.reverse().join(':'));
 
             e[index].leftTime--;
-            setTimeout(m.go, 1000, index);
+            if (e[index].leftTime >= 0)
+                setTimeout(m.go, 1000, index);
         };
 
         m.init = function (index, element) {
