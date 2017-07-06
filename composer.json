@@ -1,0 +1,13 @@
+{
+  "name": "wscvua/left-time",
+  "description": "",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Web-Studio.cv.ua",
+      "email": "info@web-studio.cv.ua"
+    }
+  ],
+  "minimum-stability": "alpha",
+  "prefer-stable": true
+}
