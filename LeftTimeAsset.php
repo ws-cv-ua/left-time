@@ -5,7 +5,7 @@ use yii\web\AssetBundle;
 
 class LeftTimeAsset extends AssetBundle
 {
-    public $sourcePath = '@ws-cv-ua/left-time';
+    public $sourcePath = '@vendor/ws-cv-ua/left-time';
 
     public $js = [
         'js/left-time.js'
