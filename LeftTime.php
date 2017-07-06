@@ -6,7 +6,7 @@
  * Time: 15:00
  */
 
-namespace wscvua\lifetime;
+namespace wscvua\lefttime;
 
 class LeftTime extends \yii\bootstrap\Widget
 {
