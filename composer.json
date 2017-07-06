@@ -1,5 +1,5 @@
 {
-  "name": "wscvua/lefttime",
+  "name": "ws-cv-ua/left-time",
   "description": "",
   "license": "MIT",
   "homepage": "https://github.com/ws-cv-ua/left-time/blob/master/composer.json",
@@ -17,8 +17,8 @@
     "blocktrail/blocktrail-sdk": "v1.3.0"
   },
   "autoload": {
-    "psr-0": {
-      "Monolog": "src"
+    "psr-4": {
+      "wscvua\\lifetime": ""
     }
   }
 }
