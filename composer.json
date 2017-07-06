@@ -1,11 +1,36 @@
 {
-  "name": "wscvua/left-time",
+  "name": "wscvua/lefttime",
   "description": "",
   "license": "MIT",
   "authors": [
     {
       "name": "Web-Studio.cv.ua",
       "email": "info@web-studio.cv.ua"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "yiisoft/yii2": "~2.0.5",
+    "yiisoft/yii2-bootstrap": "~2.0.0",
+    "blocktrail/blocktrail-sdk": "v1.3.0"
+  },
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "ws-cv-ua/left-time",
+        "version": "1.0",
+        "source": {
+          "type": "git",
+          "url": "https://github.com/ws-cv-ua/left-time",
+          "reference": "master"
+        },
+        "autoload": {
+          "classmap": [
+            "ActiveRecord.php"
+          ]
+        }
+      }
     }
   ],
   "minimum-stability": "alpha",
