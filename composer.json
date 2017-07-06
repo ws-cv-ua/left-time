@@ -12,9 +12,7 @@
   ],
   "require": {
     "php": ">=5.4",
-    "yiisoft/yii2": "~2.0.5",
-    "yiisoft/yii2-bootstrap": "~2.0.0",
-    "blocktrail/blocktrail-sdk": "v1.3.0"
+    "yiisoft/yii2": "*"
   },
   "autoload": {
     "psr-4": {
