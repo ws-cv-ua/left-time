@@ -1,5 +1,5 @@
 <?php
-namespace wscvua\lifetime;
+namespace wscvua\lefttime;
 
 use yii\web\AssetBundle;
 
