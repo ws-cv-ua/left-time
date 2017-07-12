@@ -1,6 +1,6 @@
 Installation
 -
-To install, either run
+To install, run
 ```
 $ composer require ws-cv-ua/left-time
 ```
