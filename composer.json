@@ -3,6 +3,8 @@
   "description": "",
   "license": "MIT",
   "homepage": "https://github.com/ws-cv-ua/left-time",
+  "stability":"stable",
+  "minimum-stability":"stable",
   "authors": [
     {
       "name": "Web-Studio.cv.ua",
