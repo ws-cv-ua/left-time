@@ -1,6 +1,6 @@
 {
   "name": "ws-cv-ua/left-time",
-  "description": "",
+  "description": "Widget show left time Hours::Minutes:Seconds",
   "license": "MIT",
   "homepage": "https://github.com/ws-cv-ua/left-time",
   "stability":"stable",
